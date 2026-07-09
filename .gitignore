@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.ipynb_checkpoints/
+
+# Outputs and local data
+results/*
+!results/.gitkeep
+figures/*
+!figures/.gitkeep
+data/*
+!data/README.md
+
+# System
+.DS_Store
