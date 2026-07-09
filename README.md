@@ -201,4 +201,5 @@ This repository does not include restricted HCP data, example data, generated re
 
 ## License
 
-MIT License.
+Apache License
+Version 2.0, January 2004
