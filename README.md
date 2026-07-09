@@ -1,5 +1,5 @@
 # BMI-ISRSA
-A Python pipeline for Inter-Subject Representational Similarity Analysis (IS-RSA) of naturalistic fMRI, including sliding-window BOLD analysis, motion correction, and confound-controlled brain–phenotype association testing.
+This repository provides a comprehensive analysis pipeline for investigating BMI-related brain representations during naturalistic movie viewing. The framework implements parcel-wise Inter-Subject Representational Similarity Analysis (IS-RSA), covariate-controlled and motion-confound analyses, sliding-window BOLD analysis, network-level annotation, and cortical surface visualization using Human Connectome Project (HCP) data.
 
 
 # Inter-Subject Representational Similarity Analysis (IS-RSA)
